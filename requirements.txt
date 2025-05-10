@@ -36,6 +36,7 @@ python-dateutil==2.9.0.post0
 pytz==2025.1
 pywin32==309
 pyzmq==26.2.1
+RapidFuzz==3.13.0
 regex==2024.11.6
 Sastrawi==1.0.1
 seaborn==0.13.2
